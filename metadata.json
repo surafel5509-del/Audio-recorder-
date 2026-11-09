@@ -1,0 +1,6 @@
+{
+  "name": "ProVoice Studio",
+  "description": "Professional audio recording studio, multi-track mixer, live teleprompter, effects processor, and audio editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
